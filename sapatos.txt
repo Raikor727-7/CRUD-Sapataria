@@ -1,0 +1,27 @@
+ 1            NIKE      TENIS               AIRMAX F      PRETO 39 2023
+ 2          ADIDAS    CHINELO                SLIDE F       ROSA 38 2022
+ 3            NIKE      TENIS               JORDAN M     BRANCO 43 2025
+ 4          ADIDAS      TENIS           ULTRABOOST F     BRANCO 39 2024
+ 5            PUMA      TENIS            FUTURECAT M      PRETO 44 2023
+ 6          REEBOK    CHINELO             DRIFTCAT F       ROSA 36 2021
+ 7            NIKE       BOTA             ACGBLACK M      VERDE 42 2023
+ 8    LOUISVUITTON       BOTA         MONOGRAMBOOT F      PRETO 37 2023
+ 9          OAKLEY       BOTA              TRACKER M     MARROM 41 2024
+10          KENNER   SANDALIA               KENNYG M       ROXO 43 2020
+11            FILA      TENIS               RACERT M     BRANCO 42 2025
+12      BALENCIAGA    CHINELO                 POOL F       ROSA 37 2022
+13     UNDERARMOUR      TENIS            HOVRSONIC M      CINZA 44 2023
+14           GUCCI       BOTA              LEATHER F      PRETO 36 2025
+15             OUS      TENIS               IMIGRA M  AZULMARIN 40 2022
+16            HOKA      TENIS              CLIFTON F     BRANCO 38 2023
+17           CROCS    CHINELO              CLASSIC F       ROSA 37 2024
+18          MIZUNO      TENIS             WAVEKNIT M       AZUL 43 2023
+19           GUESS      TENIS          CITYSNEAKER F     BRANCO 36 2022
+20           SUPRA      TENIS               SKYTOP M      PRETO 42 2021
+21      NEWBALANCE      TENIS              574CORE F      CINZA 39 2023
+22    DOLCEGABBANA       BOTA           LUXURYHEEL F      PRETO 37 2025
+23          KENNER    CHINELO                  NK6 M     MARROM 42 2023
+24            VANS      TENIS                  ERA F   VERMELHO 38 2022
+25            DIOR       BOTA          SNOWLEATHER F     BRANCO 39 2025
+26       OLYMPIKUS      TENIS             ULTRALEV M       AZUL 43 2024
+27            NIKE      TENIS            PEGASUS39 F      CINZA 40 2023
